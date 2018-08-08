@@ -1,2 +1,2 @@
 # MVC testing project
->>ThinkCube (Pvt) Ltd.
+>ThinkCube (Pvt) Ltd.
